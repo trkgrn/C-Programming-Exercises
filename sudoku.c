@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
+
 	static int B[9][9] =  { {1, 0, 0, 4, 8, 9, 0, 0, 6}, 
          {7, 3, 0, 0, 0, 0, 0, 4, 0}, 
          {0, 0, 0, 0, 0, 1, 2, 9, 5}, 
